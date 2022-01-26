@@ -1,0 +1,3 @@
+ 5 draft.txt
+ 0 my_file.txt
+ 5 total
